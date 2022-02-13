@@ -6,7 +6,9 @@ public class FirstExample {
 		
 		System.out.println("Hello");
 		
-		System.out.println("Login page createdS");
+		System.out.println("Login page created");
+		
+		System.out.println("Home page created");
 
 	}
 
